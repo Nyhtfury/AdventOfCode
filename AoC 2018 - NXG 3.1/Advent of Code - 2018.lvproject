@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="ABC5850B90C0248CDFFACC36D4F19EE39417C9B5E568B39CFF059FE31F524D0145571F8E88F486501FFE7C513C4133008A3F37A25991E9D3170EA5B43325B406" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="F87FBE12145B214C3E0092F0D953D706BC1FF798A8CD3028D88C51AB56C0F16BF1CA201743709DFA219DDC525575EB82D49F65214A26FB4CF7C86B2D0694F364" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="6.4.1.50844" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="6.1.0.1" Version="6.2.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="6.4.1.50844" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="6.2.0.49153" Version="6.2.0.49153" />
@@ -131,6 +131,7 @@
 						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="146" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Day 1.gvi" StoragePath="Day 1\Day 1.gvi" />
 						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="7895c6a219ba442fa39ec15792a774f0" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Freq Shifts.gvi" StoragePath="Day 1\Get Freq Shifts.gvi" />
 						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="bdbd8e3aaed34c249def1254f431b413" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get First Repeat Freq.gvi" StoragePath="Day 1\Get First Repeat Freq.gvi" />
+						<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="a2226b0349e847d2a8249c64b6f29a25" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Day 2.gvi" StoragePath="Day 2\Day 2.gvi" />
 					</EmbeddedDefinitionReference>
 					<EmbeddedDefinitionReference Bindings="RcxRepositoryManagerDefinition" Id="41" ModelDefinitionType="RepositoryManagerDefinition" Name="rcx.lib" Reparentable="False">
 						<RepositoryManagerDefinition />
@@ -160,6 +161,21 @@
 				<EmbeddedDefinitionReference Id="40" ModelDefinitionType="RepositoryManagerDefinition" Name="vi.lib.Native" Reparentable="False">
 					<RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Native&quot;" />
 				</EmbeddedDefinitionReference>
+				<EmbeddedDefinitionReference Id="28889a552da741138fd37817dc950020" ModelDefinitionType="NationalInstruments.ProjectExplorer.ExternalFileSupport.Modeling.ExternalFileType" Name="Day 2 Raw Input.txt">
+					<ExternalFile>
+						<p.StoragePath>"Day 2\\Day 2 Raw Input.txt"</p.StoragePath>
+					</ExternalFile>
+				</EmbeddedDefinitionReference>
+				<EmbeddedDefinitionReference Id="b496b6521a3a402c938bec9b107b4486" ModelDefinitionType="NationalInstruments.ProjectExplorer.ExternalFileSupport.Modeling.ExternalFileType" Name="Day 1 Raw Input.txt">
+					<ExternalFile>
+						<p.StoragePath>"Day 1\\Day 1 Raw Input.txt"</p.StoragePath>
+					</ExternalFile>
+				</EmbeddedDefinitionReference>
+				<EmbeddedDefinitionReference Id="e18397ab64f48359d2fb642866fa23b" ModelDefinitionType="NationalInstruments.ProjectExplorer.ExternalFileSupport.Modeling.ExternalFileType" Name="Day 1 Input.txt">
+					<ExternalFile>
+						<p.StoragePath>"Day 1\\Day 1 Input.txt"</p.StoragePath>
+					</ExternalFile>
+				</EmbeddedDefinitionReference>
 			</NameScopingEnvoy>
 		</EmbeddedDefinitionReference>
 		<NameScopingEnvoy Id="10" ModelDefinitionType="NullTarget" Name="NullTarget">
@@ -185,6 +201,7 @@
 				<SourceFileReference Id="147" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Day 1.gvi" StoragePath="Day 1\Day 1.gvi" />
 				<SourceFileReference Id="bb8a408917964eae939051c87cd05eda" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Freq Shifts.gvi" StoragePath="Day 1\Get Freq Shifts.gvi" />
 				<SourceFileReference Id="f3eea8cecf9744189d88f237be9be967" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get First Repeat Freq.gvi" StoragePath="Day 1\Get First Repeat Freq.gvi" />
+				<SourceFileReference Id="a0fa45922fb441d8b052f21fd32920fe" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Day 2.gvi" StoragePath="Day 2\Day 2.gvi" />
 			</EmbeddedDefinitionReference>
 			<EmbeddedDefinitionReference Id="23" ModelDefinitionType="PackageReferencesDefinition" Name="ProjectReferences">
 				<PackageReferencesDefinition>
