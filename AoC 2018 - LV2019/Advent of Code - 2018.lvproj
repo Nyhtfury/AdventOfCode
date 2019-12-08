@@ -23,6 +23,9 @@
 		<Item Name="Day 5" Type="Folder" URL="../Day 5">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day 6" Type="Folder" URL="../Day 6">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="File IO" Type="Folder" URL="../File IO">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
