@@ -26,14 +26,9 @@
 		<Item Name="Day 6" Type="Folder" URL="../Day 6">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="File IO" Type="Folder" URL="../File IO">
+		<Item Name="Helper" Type="Folder" URL="../Helper">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Matrix" Type="Folder" URL="../Matrix">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="[Map] Filter Entries By Key.vi" Type="VI" URL="../[Map] Filter Entries By Key.vi"/>
-		<Item Name="[Map] Find Max Value.vi" Type="VI" URL="../[Map] Find Max Value.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="String to Character Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to Character Array__ogtk.vi"/>
