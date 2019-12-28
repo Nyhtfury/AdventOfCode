@@ -3,7 +3,8 @@ from scipy.spatial import distance
 from pathlib import Path
 
 # read the data using scipy
-points = np.loadtxt(Path('Day 6') / "Day 6 Raw Input.txt", delimiter=', ')
+# points = np.loadtxt(Path('Day 6') / "Day 6 Raw Input.txt", delimiter=', ')
+points = np.loadtxt(Path('Day 6') / "Day 6 Example Input.txt", delimiter=', ')
 
 # build a grid of the appropriate size - note the -1 and +2 to ensure all points
 # are within the grid
