@@ -3,8 +3,8 @@ from scipy.spatial import distance
 from pathlib import Path
 
 # read the data using scipy
-# points = np.loadtxt(Path('Day 6') / "Day 6 Raw Input.txt", delimiter=', ')
-points = np.loadtxt(Path('Day 6') / "Day 6 Example Input.txt", delimiter=', ')
+points = np.loadtxt(Path('Day 6') / "Day 6 Raw Input.txt", delimiter=', ')
+# points = np.loadtxt(Path('Day 6') / "Day 6 Example Input.txt", delimiter=', ')
 
 # build a grid of the appropriate size - note the -1 and +2 to ensure all points
 # are within the grid
@@ -33,7 +33,7 @@ closest_origin = closest_origin.reshape(xgrid.shape)
 infinite_ids = np.unique(np.vstack([
     closest_origin[0],
     closest_origin[-1],
-    closest_origin[:, 0],
+closest_origin[:, 0],
     closest_origin[:, -1]
 ]))
 closest_origin[np.isin(closest_origin, infinite_ids)] = len(points) + 1
