@@ -1,0 +1,8 @@
+C:\Development\AdventOfCode\2018\C#\Helpers\bin\Debug\netcoreapp3.1\Helpers.deps.json
+C:\Development\AdventOfCode\2018\C#\Helpers\bin\Debug\netcoreapp3.1\Helpers.dll
+C:\Development\AdventOfCode\2018\C#\Helpers\bin\Debug\netcoreapp3.1\Helpers.pdb
+C:\Development\AdventOfCode\2018\C#\Helpers\obj\Debug\netcoreapp3.1\Helpers.csprojAssemblyReference.cache
+C:\Development\AdventOfCode\2018\C#\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+C:\Development\AdventOfCode\2018\C#\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
+C:\Development\AdventOfCode\2018\C#\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
+C:\Development\AdventOfCode\2018\C#\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb

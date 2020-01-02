@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Development\AdventOfCode\2018\C#" t="IncludeFlat">
+      <e p="Day 7" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Day 7.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Day 7.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Day 7.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Galen\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Galen\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Day 7.-587210136.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Galen\.Rider2019.3\system\rust_expanded_macros\VyBWVyqS\expansions" t="IncludeRecursive" />
+  </component>
+</project>

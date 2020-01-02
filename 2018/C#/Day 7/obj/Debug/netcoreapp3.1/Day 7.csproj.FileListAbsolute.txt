@@ -1,0 +1,16 @@
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.exe
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.deps.json
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.runtimeconfig.json
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.runtimeconfig.dev.json
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.dll
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7.pdb
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Helpers.dll
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Helpers.pdb
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.csprojAssemblyReference.cache
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.AssemblyInfoInputs.cache
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.AssemblyInfo.cs
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.csproj.CopyComplete
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.dll
+C:\Development\AdventOfCode\2018\C#\Day 7\obj\Debug\netcoreapp3.1\Day 7.pdb
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7 Raw Input.txt
+C:\Development\AdventOfCode\2018\C#\Day 7\bin\Debug\netcoreapp3.1\Day 7 Example Raw Input.txt

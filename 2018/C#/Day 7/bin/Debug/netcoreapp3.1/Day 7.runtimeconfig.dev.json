@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Galen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Galen\\.nuget\\packages"
+    ]
+  }
+}
